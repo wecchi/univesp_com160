@@ -21,6 +21,7 @@ Relacionei alguns exercícios realizados no 1º bimestre/2021 durante as aulas d
 7. [Declaração de função](Sem1/declaracao_funcao.cpp): dado entrada de dois números pelo usuário, realizar operações elementares de soma, subtração, multiplicação e divisão. Apresentação da sintaxe para declaração e uso de função em um programa.
 8. [Passagem de parâmetro por valor](Sem1/parametro_valor.cpp): exemplo de como uma função recebe parâmetros por valor.
 9. [Passagem de parâmetro por referência](Sem1/parametro_referencia.cpp): exemplo de como uma função recebe parâmetros por referência.
+10. [Ponteiros](Sem1/ponteiros.cpp): exemplos de declaração, inicialização e atribuição de valor a ponteiros de memória de maneira estática (STACK)  e de maneira dinâmica (HEAP).
 
 </dd>
 
