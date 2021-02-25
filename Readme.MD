@@ -22,7 +22,10 @@ Relacionei alguns exercícios realizados no 1º bimestre/2021 durante as aulas d
 8. [Passagem de parâmetro por valor](Sem1/parametro_valor.cpp): exemplo de como uma função recebe parâmetros por valor.
 9. [Passagem de parâmetro por referência](Sem1/parametro_referencia.cpp): exemplo de como uma função recebe parâmetros por referência.
 10. [Ponteiros](Sem1/ponteiros.cpp): exemplos de declaração, inicialização e atribuição de valor a ponteiros de memória de maneira estática (STACK)  e de maneira dinâmica (HEAP).
-
+11. [Declaração e inicialização de vetor](Sem1/vetores_bas.cpp): como deve ser feita a declaração e inicialização de vetor de inteiros.
+12. [Vetor estático](Sem1/vetores_cte.cpp): implementando uma constante para definir o tamanho do vetor na declaração e inicialização de vetor de inteiros.
+13. [Passagem de ponteiros](Sem1/passagem_ponteiro.cpp): verificação de três diferentes formas de tratar ponteiros por um método. Imprimindo seus valores antes e depois para fim de comparação.
+14. [Métodos para manipulação de vetor](Sem1/modifica_vetor.cpp): dado dois vetores de inteiros, crie métodos que alterem seus valores e um outro método que manipule os dados e some os elementos do vetor mantendo a imutabilidade do vetor original.
 </dd>
 
 </dl>
