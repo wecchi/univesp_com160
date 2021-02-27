@@ -28,4 +28,22 @@ Relacionei alguns exercícios realizados no 1º bimestre/2021 durante as aulas d
 14. [Métodos para manipulação de vetor](Sem1/modifica_vetor.cpp): dado dois vetores de inteiros, crie métodos que alterem seus valores e um outro método que manipule os dados e some os elementos do vetor mantendo a imutabilidade do vetor original.
 </dd>
 
+<dl>
+<dt>Exercícios de fixação de '<a href= "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html" target="_blank">C++ Programming Tutorial</a>'</dt>
+<dd>
+
+15. [Impressão de padrões](Sem1/PrintPatternX.cpp): imprimindo padrões usando o comando _cout_.
+16. [Operações matemáticas básicas com números inteiros](Sem1/Add2Numbers.cpp): dado entrada de dois números pelo usuário, realizar operações elementares de soma, subtração, multiplicação e divisão. Apresentação da sintaxe para declaração em uma única linha. 
+17. [Soma e multiplicação de cinco inteiros](Sem1/FiveIntegerArithmetic.cpp): dado entrada de cinco números pelo usuário, computar a soma e o produto desses números.
+18. [Área e circunferência de um círculo](Sem1/CircleComputation.cpp): com base num raio de um círculo, calcular sua circunferência e área.
+19. [Área e perímetro de um retângulo](Sem1/RetanguleComputation.cpp): conforme informações de comprimento e largura de um retângulo, calcular perímetro e área.
+20. [Volume e superfície de um cilindro](Sem1/CylinderComputation.cpp): dado um cilindro sólido de raio _r_ e altura _h_, calcular a área da superfície e seu volume.
+21. [Soma de números pares e ímpares](Sem1/SumOddEven.cpp): com base numa série aritmética unitária de tamanho _n_ informado pelo usuário, calcular as somas dos valores pares, ímpares e a diferença entre eles. 
+22. [Soma de números múltiplos por 13, 15 e 17](Sem1/SumDivisibleBy13_15_17.cpp): dada uma série aritimética unitária de tamanho _n_, informado pelo usuário, calcular a soma dos termos que sejam divisíveis por 13 ou 15 ou 17, mas que não sejam por 30.
+23. [Anos bissextos](Sem1/ShowLeapYears.cpp): calcular e apresentar TODOS os anos [bissextos](https://pt.wikipedia.org/wiki/Ano_bissexto) comprendido entre dois anos informados pelo usuário.
+24. [Conversor de temperaturas](Sem1/ConvertTemperature.cpp): conversor de temperaturas fahrenheit-celsius e vice-versa.
+25. [Cálculo de médias](Sem1/TestCastingAverage.cpp): apresentação do comportamento da linguagem C++ ao dividir números com formatos inteiro. Uso de _cast_.
+26. [Série harmônica](Sem1/HarmonicSeriesSum.cpp): calcular a soma de _n_ termos de uma série harmônica informado pelo usuário (1 + 1/2 + 1/3 + 1/4 + .... + 1/n).
+27. [Série geométrica](Sem1/GeometricSeriesSum.cpp): calcular a soma de _n_ termos de uma série geométrica informado pelo usuário (1 + 1/2 + 1/4 + 1/8 + .... + 1/n).
+</dd>
 </dl>
