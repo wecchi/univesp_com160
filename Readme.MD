@@ -28,7 +28,6 @@ Relacionei alguns exercícios realizados no 1º bimestre/2021 durante as aulas d
 14. [Métodos para manipulação de vetor](Sem1/modifica_vetor.cpp): dado dois vetores de inteiros, crie métodos que alterem seus valores e um outro método que manipule os dados e some os elementos do vetor mantendo a imutabilidade do vetor original.
 </dd>
 
-<dl>
 <dt>Exercícios de fixação de '<a href= "https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html" target="_blank">C++ Programming Tutorial</a>'</dt>
 <dd>
 
@@ -46,4 +45,16 @@ Relacionei alguns exercícios realizados no 1º bimestre/2021 durante as aulas d
 26. [Série harmônica](Sem1/HarmonicSeriesSum.cpp): calcular a soma de _n_ termos de uma série harmônica informado pelo usuário (1 + 1/2 + 1/3 + 1/4 + .... + 1/n).
 27. [Série geométrica](Sem1/GeometricSeriesSum.cpp): calcular a soma de _n_ termos de uma série geométrica informado pelo usuário (1 + 1/2 + 1/4 + 1/8 + .... + 1/n).
 </dd>
+
+<dt>As visões das estruturas de dados (**lógica** - classes criadas em arquivos _.h_ , **implementação** - arquivos _.cpp_ com _include_ do arquivo _.h_ e **aplicação**)</dt>
+<dd>
+
+28. [Classe time](Sem2/time_main.cpp): criar uma classe que represente a estrutra de tempo em horas, minutos e segundos.
+28. [Pilha](Sem2/stack_test.cpp): criar uma estrurura de dados que receba um texto e a inverta, usando o conceito de pilha.
+28. [Fila](Sem2/):
+28. [](Sem2/):
+
+
+</dd>
+
 </dl>
