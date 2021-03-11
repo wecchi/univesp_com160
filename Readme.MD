@@ -50,11 +50,17 @@ Relacionei alguns exercícios realizados no 1º bimestre/2021 durante as aulas d
 <dd>
 
 28. [Classe time](Sem2/time_main.cpp): criar uma classe que represente a estrutra de tempo em horas, minutos e segundos.
-28. [Pilha](Sem2/stack_test.cpp): criar uma estrurura de dados que receba um texto e a inverta, usando o conceito de pilha.
-28. [Fila](Sem2/):
-28. [](Sem2/):
-
-
+29. [Pilha](Sem2/stack_test.cpp): criar uma estrurura de dados que receba um texto e a inverta, usando o conceito de pilha.
+30. [Fila](Sem2/queue_test.cpp): criar uma estrurura de dados que receba um texto usando o conceito de fila.
 </dd>
 
+<dt>Organização dos dados na memória (contíguo ou disperso):<br/>
+Definir critérios para decidir qual forma de organização de dados na memória é mais adequada para cada situação;<br/>
+Compreender o encadeamento das estruturas lineares na memória por meio de ponteiros;<br/>
+Entender a diferença na implementação de pilhas e filas com vetores e com listas encadeadas.</dt>
+<dd>
+
+31. [Verifica sintaxe de literais](Sem3/checkSintaxe.cpp): Verificação de strings bem formadas (aninhamento de parênteses, chaves e colchetes) o algoritmo empilha todos os caracteres de abertura enquanto estivermos lendo a string da esquerda para a direita. Se encontrarmos um caractere de fechamento na leitura da string, então desempilhamos o elemento do topo e verifica se o elemento de fechamento "casa" com o que está no topo. A string estará bem formada se, ao final do processo, a pilha estiver vazia.
+
+</dd>
 </dl>
