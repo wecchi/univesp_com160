@@ -50,8 +50,8 @@ Relacionei alguns exercícios realizados no 1º bimestre/2021 durante as aulas d
 <dd>
 
 28. [Classe time](Sem2/time_main.cpp): criar uma classe que represente a estrutra de tempo em horas, minutos e segundos.
-29. [Pilha](Sem2/stack_test.cpp): criar uma estrurura de dados que receba um texto e a inverta, usando o conceito de pilha.
-30. [Fila](Sem2/queue_test.cpp): criar uma estrurura de dados que receba um texto usando o conceito de fila.
+29. [Pilha implementada com vetor](Sem2/stack_test.cpp): criar uma estrurura de dados que receba um texto e a inverta, usando o conceito de pilha.
+30. [Fila implementada com vetor](Sem2/queue_test.cpp): criar uma estrurura de dados que receba um texto usando o conceito de fila.
 </dd>
 
 <dt>Organização dos dados na memória (contíguo ou disperso):<br/>
@@ -60,7 +60,10 @@ Compreender o encadeamento das estruturas lineares na memória por meio de ponte
 Entender a diferença na implementação de pilhas e filas com vetores e com listas encadeadas.</dt>
 <dd>
 
-31. [Verifica sintaxe de literais](Sem3/checkSintaxe.cpp): Verificação de strings bem formadas (aninhamento de parênteses, chaves e colchetes) o algoritmo empilha todos os caracteres de abertura enquanto estivermos lendo a string da esquerda para a direita. Se encontrarmos um caractere de fechamento na leitura da string, então desempilhamos o elemento do topo e verifica se o elemento de fechamento "casa" com o que está no topo. A string estará bem formada se, ao final do processo, a pilha estiver vazia.
+31. [Pilha com lista encadeada](Sem3/stack_test.cpp): criar uma estrutura de dados com para representar uma **pilha** de caracteres digitados pelo usuário na forma de lista encadeada - ponteiro de memória.
+32. [Verifica sintaxe de literais](Sem3/checkSintaxe.cpp): Verificação de strings bem formadas (aninhamento de parênteses, chaves e colchetes) o algoritmo empilha todos os caracteres de abertura enquanto estivermos lendo a string da esquerda para a direita. Se encontrarmos um caractere de fechamento na leitura da string, então desempilhamos o elemento do topo e verifica se o elemento de fechamento "casa" com o que está no topo. A string estará bem formada se, ao final do processo, a pilha estiver vazia.
+33. [Fila com lista encadeada](Sem3/queue_test.cpp): criar uma estrutura de dados com para representar uma **fila** de caracteres digitados pelo usuário na forma de lista encadeada - ponteiro de memória.
+34. [Verifica palíndrome](Sem3/palindrome.cpp): implementação de fila e pilha para checar se um texto digitado pelo usuário é uma palíndrome.
 
 </dd>
 </dl>

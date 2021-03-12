@@ -1,5 +1,5 @@
  /* Videoaula 8 -  04:45
-  * Definindo o tipo abstrato de dados
+  * Definindo o tipo abstrato de dados para pilha
   */
 
  #include "itemtype.h"

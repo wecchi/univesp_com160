@@ -3,10 +3,14 @@
   * E a estrutura usada para guardar a informação e o endereço do próximo elemento
   */
 
-typedef char ItemType;
+#ifndef ITEMTYPE_H   // Inclua esse bloco apenas se ITEMTYPE_H não está definido
+#define ITEMTYPE_H   // Na primeira inclusão, defina ITEMTYPE_H para que este bloco não seja incluído mais de uma vez.
 
-struct NodeType
-{
-    ItemType info;
-    NodeType* next;
-};
+  typedef char ItemType;
+
+  struct NodeType
+  {
+      ItemType info;
+      NodeType* next;
+  };
+#endif
