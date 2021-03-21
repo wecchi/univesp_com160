@@ -66,4 +66,13 @@ Entender a diferença na implementação de pilhas e filas com vetores e com lis
 34. [Verifica palíndrome](Sem3/palindrome.cpp): implementação de fila e pilha para checar se um texto digitado pelo usuário é uma palíndrome.
 
 </dd>
+
+<dt>Tabelas Hash: permitem buscas em tempo constante, satisfeitas algumas restrições. Essa estrutura de dados pode ter vários nomes como: dicionários, mapas, arrays associativos, e assim por diante.<br />
+A função de espalhamento recebe uma chave de busca e retorna um endereço de memória onde um registro com aquela chave pode ser encontrado.</dt>
+<dd>
+
+35. [Lista de alunos RAs e Nomes com vetor](Sem4/hash_basic.cpp): implementação de uma tabela Hash para armazenamento e busca de dados de aluno - problema de colisão
+36. [Lista de alunos RAs e Nomes com teste linear](Sem4/hash_linear.cpp): O teste linear agrupa os elementos em posições contíguas. As pesquisas podem se tornar lentas.
+
+</dd>
 </dl>
