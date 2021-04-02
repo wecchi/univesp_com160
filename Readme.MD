@@ -64,7 +64,6 @@ Entender a diferença na implementação de pilhas e filas com vetores e com lis
 32. [Verifica sintaxe de literais](Sem3/checkSintaxe.cpp): Verificação de strings bem formadas (aninhamento de parênteses, chaves e colchetes) o algoritmo empilha todos os caracteres de abertura enquanto estivermos lendo a string da esquerda para a direita. Se encontrarmos um caractere de fechamento na leitura da string, então desempilhamos o elemento do topo e verifica se o elemento de fechamento "casa" com o que está no topo. A string estará bem formada se, ao final do processo, a pilha estiver vazia.
 33. [Fila com lista encadeada](Sem3/queue_test.cpp): criar uma estrutura de dados com para representar uma **fila** de caracteres digitados pelo usuário na forma de lista encadeada - ponteiro de memória.
 34. [Verifica palíndrome](Sem3/palindrome.cpp): implementação de fila e pilha para checar se um texto digitado pelo usuário é uma palíndrome.
-
 </dd>
 
 <dt>Tabelas Hash: permitem buscas em tempo constante, satisfeitas algumas restrições. Essa estrutura de dados pode ter vários nomes como: dicionários, mapas, arrays associativos, e assim por diante.<br />
@@ -73,6 +72,20 @@ A função de espalhamento recebe uma chave de busca e retorna um endereço de m
 
 35. [Lista de alunos RAs e Nomes com vetor](Sem4/hash_basic.cpp): implementação de uma tabela Hash para armazenamento e busca de dados de aluno - problema de colisão
 36. [Lista de alunos RAs e Nomes com teste linear](Sem4/hash_linear.cpp): O teste linear agrupa os elementos em posições contíguas. As pesquisas podem se tornar lentas.
-
 </dd>
+
+<dt>Árvores binárias de busca: Uma árvore binária de busca, na qual os elementos são ordenados entre si, de acordo com o conteúdo de cada nó. Essa organização permite gerar algoritmos de busca, inserção e remoção que possuem tempo de processamento proporcional à altura da árvore.</dt>
+<dd>
+
+37. [Organização dos alunos](Sem5/tree_app.cpp): implementar a estrutura de uma lista de alunos em uma árvore binária de busca
+</dd>
+
+<dt>Árvores AVL e Grafos: Árvores AVL são árvores binárias de busca com implementação de algorítmo para balanceamento da árvore com a garantia de que as operações serão sempre eficientes. Grafo é uma estrutura formada por um conjunto de vértices e um conjunto de arestas, onde cada aresta é um par (ordenado) de vértices.</dt>
+<dd>
+
+38. [](Sem6/tree_app.cpp): 
+39. [Implementação de grafo ponderado e direcionado](Sem6/graph_app.cpp): implemente o grafo da figura abaixo e imprima a estrutura numa Matriz de Adjacências.
+<img src="./Sem6/Graph_Sample.JPG" alt="Graph Sample" width="500"></a>
+</dd>
+
 </dl>
