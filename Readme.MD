@@ -77,14 +77,14 @@ A função de espalhamento recebe uma chave de busca e retorna um endereço de m
 <dt>Árvores binárias de busca: Uma árvore binária de busca, na qual os elementos são ordenados entre si, de acordo com o conteúdo de cada nó. Essa organização permite gerar algoritmos de busca, inserção e remoção que possuem tempo de processamento proporcional à altura da árvore.</dt>
 <dd>
 
-37. [Organização dos alunos](Sem5/tree_app.cpp): implementar a estrutura de uma lista de alunos em uma árvore binária de busca
+37. [Organização dos alunos](Sem5/tree_app.cpp): implementar a estrutura de uma lista de alunos em uma árvore binária de busca.
 </dd>
 
 <dt>Árvores AVL e Grafos: Árvores AVL são árvores binárias de busca com implementação de algorítmo para balanceamento da árvore com a garantia de que as operações serão sempre eficientes. Grafo é uma estrutura formada por um conjunto de vértices e um conjunto de arestas, onde cada aresta é um par (ordenado) de vértices.</dt>
 <dd>
 
-38. [](Sem6/tree_app.cpp): 
-39. [Implementação de grafo ponderado e direcionado](Sem6/graph_app.cpp): implemente o grafo da figura abaixo e imprima a estrutura numa Matriz de Adjacências.
+38. [Árvore dos alunos](Sem6/tree_app.cpp): implementar a estrutura de uma lista de alunos em uma árvore binária de busca AVL.
+39. [Implementação de grafo ponderado e direcionado](Sem6/graph_app.cpp): implemente o grafo da figura abaixo e imprima a estrutura numa Matriz de Adjacências.<br />
 <img src="./Sem6/Graph_Sample.JPG" alt="Graph Sample" width="500"></a>
 </dd>
 
