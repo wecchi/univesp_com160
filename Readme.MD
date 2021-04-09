@@ -95,6 +95,6 @@ A função de espalhamento recebe uma chave de busca e retorna um endereço de m
 41. [Page rank](Sem7_PageRank/graph_pagerank.cpp): aplicar algorítmo de PageRank com fator de amortecimento 0.85 e utilizando 100 iterações para a convergência dos valores para o grafo abaixo:
 <br />
 <img src="./Sem7_PageRank/graph.gif" alt="Graph to calcule a pagerank" height="200">
-<img src="./Sem7_PageRank/OutputPageRank.gif" alt = "Results of pagerank" height="200">
+<img src="./Sem7_PageRank/OutputPageRank.GIF" alt = "Results of pagerank" height="200">
 </dd>
 </dl>
