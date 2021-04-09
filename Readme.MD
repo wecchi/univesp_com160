@@ -85,7 +85,16 @@ A função de espalhamento recebe uma chave de busca e retorna um endereço de m
 
 38. [Árvore dos alunos](Sem6/tree_app.cpp): implementar a estrutura de uma lista de alunos em uma árvore binária de busca AVL.
 39. [Implementação de grafo ponderado e direcionado](Sem6/graph_app.cpp): implemente o grafo da figura abaixo e imprima a estrutura numa Matriz de Adjacências.<br />
-<img src="./Sem6/Graph_Sample.JPG" alt="Graph Sample" width="500"></a>
+<img src="./Sem6/Graph_Sample.JPG" alt="Graph Sample" width="500">
 </dd>
 
+<dt>Aplicações de grafos com _PageRank_: O algoritmo _PageRank_ foi desenvolvido pelos fundadores do Google e ajudou a alavancar a empresa fazendo com que ela se tornasse o que é hoje. Perceba que o algoritmo nada mais e do que uma aplicação da estrutura de dados grafos para um cenário que resolve um problema do mundo real por meio da implementação de uma métrica de "popularidade".</dt>
+<dd>
+
+40. [Busca em grafo](Sem7/graph_buscas.cpp): implementar uma estrutura de grafo que permita busca por um vértice, percorrendo por largura e por profundidade, sem visitar mais de uma vez um nó/vértice.
+41. [Page rank](Sem7_PageRank/graph_pagerank.cpp): aplicar algorítmo de PageRank com fator de amortecimento 0.85 e utilizando 100 iterações para a convergência dos valores para o grafo abaixo:
+<br />
+<img src="./Sem7_PageRank/graph.gif" alt="Graph to calcule a pagerank" height="200">
+<img src="./Sem7_PageRank/OutputPageRank.gif" alt = "Results of pagerank" height="200">
+</dd>
 </dl>
